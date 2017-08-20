@@ -1,0 +1,19 @@
+{
+  "name": "casa-do-codigo",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[Bsite da casa do codigo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[3;2~https://github.com/matheusluisluz/NJS"
+  },
+  "author": "matheus luis",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
